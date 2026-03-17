@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="yucellmustafa/android_device_xiaomi_toco" path="device/xiaomi/toco" remote="github" revision="lineage-22.2" />
+  <project name="LineageOS/android_device_xiaomi_sm6150-common" path="device/xiaomi/sm6150-common" remote="github" revision="lineage-22.2" />
+  <project name="yucellmustafa/android_kernel_xiaomi_sm6150" path="kernel/xiaomi/sm6150" remote="github" revision="lineage-22.2" />
+  <project name="yucellmustafa/proprietary_vendor_xiaomi_toco" path="vendor/xiaomi/toco" remote="github" revision="lineage-22.2" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_sm6150-common" path="vendor/xiaomi/sm6150-common" remote="github" revision="lineage-22.2" />
+  <project name="LineageOS/android_hardware_xiaomi" path="hardware/xiaomi" remote="github" revision="lineage-22.2" />
+  <project name="yucellmustafa/android_device_xiaomi_miuicamera-toco" path="device/xiaomi/miuicamera-toco" remote="github" revision="v" />
+  <project name="yucellmustafa/android_vendor_xiaomi_miuicamera-toco" path="vendor/xiaomi/miuicamera-toco" remote="github" revision="v" />
+</manifest>
