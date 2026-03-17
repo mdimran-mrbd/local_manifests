@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project name="crdroidandroid/android_device_xiaomi_toco" path="device/xiaomi/toco" remote="github" revision="16.0" />
-  
+
   <project name="crdroidandroid/android_device_xiaomi_sm6150-common" path="device/xiaomi/sm6150-common" remote="github" revision="16.0" />
 
   <project name="crdroidandroid/android_kernel_xiaomi_sm6150" path="kernel/xiaomi/sm6150" remote="github" revision="16.0" />
